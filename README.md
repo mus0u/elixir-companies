@@ -7,6 +7,9 @@ A curated list of companies using Elixir in production, organized by industry.
 
 * [Aircloak](https://aircloak.com/) ([GitHub](https://github.com/Aircloak)) - Aircloak’s first-in-class real-time database anonymization solution provides instant privacy compliance and enables high-quality analytics for any data set and any use case. Aircloak's from Berlin. [Saša Jurić](https://github.com/sasa1977), the author of [Elixir in Action](https://www.manning.com/books/elixir-in-action) is software engineer at Aircloak.
 
+#### Cannabis
+* [Weedmaps](https://weedmaps.com/) Weedmaps.com is a community where medical marijuana users connect with other users in their geographic region to freely discuss and review local cannabis co-operatives, storefronts, medical doctors and delivery services.
+
 #### Collaboration
 
 * [Canvas](https://usecanvas.com) ([GitHub](https://github.com/usecanvas)) - Notes for team of nerds.
@@ -28,7 +31,7 @@ A curated list of companies using Elixir in production, organized by industry.
 * [Cultivate](http://cultivatehq.com) ([GitHub](https://github.com/cultivatehq)) - Long-term practitioners of agile, Lean Startup and Lean UX, providing end-to-end product development. We’re using Elixir on live client projects and have been building web applications since 2009, when we operated as the Edinburgh office of EdgeCase.
 * [Diacode](https://diacode.com) ([GitHub](https://github.com/diacode)) - Former Ruby on Rails development shop now embracing Elixir and Phoenix. Authors of [Phoenix Trello](https://github.com/bigardone/phoenix-trello) clone. Co-Organizer of the [Madrid |> Elixir meetup](http://www.meetup.com/Madrid-Elixir/).
 * [Diatom Enterprises](http://www.diatomenterprises.com/) ([GitHub](https://github.com/DiatomEnterprises)) - Diatom Enterprises - Latvia based custom outsource software development company producing software for a wide variety of industries. We are proficient in Elixir, .NET, Java, Ruby on Rails, Node.JS, Angular.JS and other technologies. We offer Web, Mobile and Desktop development.
-* [Digital Natives Budapest](http://www.digitalnatives.hu/) 10 years experience in RoR, JavaScript, since 2015 we do Elixir / Elm. We work for startups and bigger companies as well, we also founded a couple of SaaS products and a coding bootcamp. We host and organise among others [Elixir](http://www.meetup.com/budapest-elixir/) and [Ruby](http://www.meetup.com/budapest-rb/) meetups in Budapest. [GitHub](https://github.com/digitalnatives)
+* [Parseltongues Budapest](http://www.digitalnatives.hu/) 10 years experience in RoR, JavaScript, since 2015 we do Elixir / Elm. We work for startups and bigger companies as well, we also founded a couple of SaaS products and a coding bootcamp. We host and organise among others [Elixir](http://www.meetup.com/budapest-elixir/) and [Ruby](http://www.meetup.com/budapest-rb/) meetups in Budapest. [GitHub](https://github.com/digitalnatives)
 * [DockYard](https://dockyard.com) ([GitHub](https://github.com/dockyard)) - Projects, staff augmentation, coaching, & code audits. Organizer of Boston Elixir. Specialize in Phoenix backends with Ember frontends. [Chris McCord](https://github.com/chrismccord) is Architectural Engineer and creator of Phoenix.
 * [Dynamo](http://godynamo.com) ([Github](https://github.com/DynamoMTL)) - We build beautiful digital experiences for startups and other innovators. Using Elixir to power our backends. Based in Montreal, Canada.
 * [EL Passion](http://www.elpassion.com) ([GitHub](https://github.com/elpassion)) - Helping startups launch their products since 2010. Coding in Ruby, JS, Elixir, Swift, Kotlin. Organizer of [Elixir Warsaw Meetup](http://www.meetup.com/ElixirWarsaw-Meetup/).
